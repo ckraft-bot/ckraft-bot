@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on leveling up my SQL skills
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Claire-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Claire-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/claire9306/)
 
 
 
