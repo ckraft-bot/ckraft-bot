@@ -1,5 +1,5 @@
   Hey there! 👋 
-  My anme is Claire, I am a data analyst at [HomeServe](https://www.homeserve.com/en-us/). 
+  My name is Claire, I am a data analyst at [HomeServe](https://www.homeserve.com/en-us/). 
 
 
 <div id="badges">
