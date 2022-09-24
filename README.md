@@ -1,24 +1,33 @@
+<h1 align="center">Hey there 👋, I'm Claire</h1>
+<h3 align="center">Data Science and Machine Learning</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ckraft-bot&label=Profile%20views&color=0e75b6&style=flat" alt="ckraft-bot" /> </p>
 
+- 🔭 I’m currently working on **leveling up my SQL skills**
 
-## About Me 
-#### Data Science and Machine Learning
-Hi there 👋, my name is Claire. I am a data analyst at [HomeServe](https://www.homeserve.com/en-us/). Thanks for stopping by!
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 🔭 I’m currently working on leveling up my SQL skills 
-- 🌱 I’m currently learning Data Structures and Algorithms 
-- 👯 I’m looking to collaborate on a computer vision project that auto solves Rubik's cubes 
-- 🤔 I’m looking for help with understanding CI/CD pipelines 
-- 📫 How to reach me: https://www.linkedin.com/in/claire9306/ 
-- 😄 Pronouns: She/her 
-- ⚡ Fun fact: My fastest solve (on a Rubik's cube) is 10.60 seconds 
+- 👯 I’m looking to collaborate on **a computer vision project that auto solves Rubik's cubes**
 
-## Skills & Competencies
-Skills: Python/ R/ SQL/ Statistics
+- 🤝 I’m looking for help with **understanding CI/CD pipelines**
 
+- 👨‍💻 All of my projects are available at [https://github.com/ckraft-bot](https://github.com/ckraft-bot)
 
-[![Claire's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckraft-bot)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckraft-bot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- ⚡ Fun fact **My fastest solve (on a Rubik's cube) is 10.60 seconds**
+
+<h3 align="left">Let's Be Social:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/claire9306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claire9306" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/claire kraft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="claire kraft" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ckraft-bot&show_icons=true&locale=en&layout=compact" alt="ckraft-bot" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ckraft-bot&show_icons=true&locale=en" alt="ckraft-bot" /></p>
+
 
 
 
