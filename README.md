@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Claire</h1>
 <h3 align="center">Data Science and Machine Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ckraft-bot&label=Profile%20views&color=0e75b6&style=flat" alt="ckraft-bot" /> </p>
+
 
 - 🔭 I’m currently working on **leveling up my SQL skills**
 
