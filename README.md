@@ -16,8 +16,6 @@ Hi there 👋, my name is Claire. I am a data analyst at [HomeServe](https://www
 ## Skills & Competencies
 Skills: Python/ R/ SQL/ Statistics
 
-## Examples
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ckraft-bot/ckraft-bot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/claire9306//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCxZr1UPkwFrL3JjfxJDFTAg)  
 
