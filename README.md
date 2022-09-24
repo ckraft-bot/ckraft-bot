@@ -17,6 +17,8 @@
   <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="600" height="300"/>
 </div>
 
+[![Claire's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckraft-bot)](https://github.com/anuraghazra/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on leveling up my SQL skills
