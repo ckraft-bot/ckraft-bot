@@ -1,9 +1,9 @@
 ![Data Science and Machine Learning](https://media-exp1.licdn.com/dms/image/C5616AQG9sL6__u-bfg/profile-displaybackgroundimage-shrink_350_1400/0/1626739578018?e=1669248000&v=beta&t=Bly-_A2qER9L0slorimx4mHa-3RRDVyYUwi2AQSNpvQ)
 
 
-### Hi there 👋, my name is Claire. Thanks for stopping by!
+## About Me 
 #### Data Science and Machine Learning
-I am a data analyst at [HomeServe](https://www.homeserve.com/en-us/). 
+Hi there 👋, my name is Claire. I am a data analyst at [HomeServe](https://www.homeserve.com/en-us/). Thanks for stopping by!
 
 ## Skills & Competencies
 Skills: Python/ R/ SQL/ Statistics
