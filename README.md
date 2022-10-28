@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Claire</h1>
-<h3 align="center">Data Science and Machine Learning</h3>
+<h3 align="center">Data Science | Machine Learning | ML Ops</h3>
 
 
 
