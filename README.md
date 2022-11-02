@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **leveling up my SQL skills**
+- 🔭 I’m currently working on **being competent at my job**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
