@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **understanding CI/CD pipelines**
 
-- 👨‍💻 All of my projects are available at [here]([https://github.com/ckraft-bot](https://github.com/ckraft-bot?tab=repositories))
+- 👨‍💻 All of my projects are available at [here]([https://github.com/ckraft-bot](https://github.com/ckraft-bot?tab=repositories)
 
 - ⚡ Fun fact **My fastest solve (on a Rubik's cube) is 10.60 seconds**
 
