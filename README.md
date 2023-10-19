@@ -3,13 +3,13 @@
 
 
 
-- 🔭 I’m currently working on **being competent at my job**
+- 🔭 I’m currently working on **some web apps**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **a computer vision project that auto solves Rubik's cubes**
 
-- 🤝 I’m looking for help with **understanding CI/CD pipelines**
+- 🤝 I’m looking for help with **model monioring - model/data drift**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/ckraft-bot?tab=repositories)
 
