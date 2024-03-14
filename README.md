@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **some web apps**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **RAG**
 
 - 👯 I’m looking to collaborate on **a computer vision project that auto solves Rubik's cubes**
 
