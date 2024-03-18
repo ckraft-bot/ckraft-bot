@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **a computer vision project that auto solves Rubik's cubes**
 
-- 🤝 I’m looking for help with **model monioring - model/data drift**
+- 🤝 I’m looking for help with **model monitoring - model/data drift**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/ckraft-bot?tab=repositories)
 
