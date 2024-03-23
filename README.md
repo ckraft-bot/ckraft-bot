@@ -17,7 +17,7 @@
 
 <h3 align="left">Let's Be Social:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/claire9306](https://www.linkedin.com/in/claire9306/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claire9306" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/claire9306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claire9306" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCxZr1UPkwFrL3JjfxJDFTAg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="claire kraft" height="30" width="40" /></a>
 </p>
 
