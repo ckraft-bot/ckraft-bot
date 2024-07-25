@@ -3,14 +3,13 @@
 
 
 
-- 🔭 I’m currently working on **some web apps**
+- 🔭 I’m currently working on **airflow data engineering**
 
-- 🌱 I’m currently learning **RAG**
+- 🌱 I’m currently learning **mongo**
 
 - 👯 I’m looking to collaborate on **a computer vision project that auto solves Rubik's cubes**
 
-- 🤝 I’m looking for help with **model monitoring - model/data drift**
-
+- 🤝 I’m looking for help with 
 - 👨‍💻 All of my projects are available at [here](https://github.com/ckraft-bot?tab=repositories)
 
 - ⚡ Fun fact **My fastest solve (on a Rubik's cube) is 10.60 seconds**
