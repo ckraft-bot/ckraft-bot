@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **airflow data engineering**
+- 🔭 I’m currently working on **IYSE 6501 course work**
 
-- 🌱 I’m currently learning **mongo**
+- 🌱 I’m currently learning **mongo at work, svm at school**
 
 - 👯 I’m looking to collaborate on **a computer vision project that auto solves Rubik's cubes**
 
