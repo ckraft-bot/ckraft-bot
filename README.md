@@ -9,7 +9,8 @@
 
 - 👯 I’m looking to collaborate on **a computer vision project that auto solves Rubik's cubes**
 
-- 🤝 I’m looking for help with 
+- 🤝 I’m looking for help with **comprehending information theory**
+  
 - 👨‍💻 All of my projects are available at [here](https://github.com/ckraft-bot?tab=repositories)
 
 - ⚡ Fun fact **My fastest solve (on a Rubik's cube) is 10.60 seconds**
