@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **CSE 6040 course work**
 
-- 🌱 I’m currently learning **mongo commands at work, various algorithms at school**
+- 🌱 I’m currently learning **sas at work, python at school**
 
 - 👯 I’m looking to collaborate on **a computer vision project that auto solves Rubik's cubes**
 
