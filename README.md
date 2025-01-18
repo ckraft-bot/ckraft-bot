@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **ISYE 6501 course work**
+- 🔭 I’m currently working on **CSE 6040 course work**
 
 - 🌱 I’m currently learning **mongo commands at work, various algorithms at school**
 
