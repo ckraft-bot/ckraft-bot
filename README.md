@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **CSE 6040 course work**
+- 🔭 I’m currently working on **decision paralysis**
 
 - 🌱 I’m currently learning **sas at work, python at school**
 
