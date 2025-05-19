@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **decision paralysis**
 
-- 🌱 I’m currently learning **sas at work, python at school**
+- 🌱 I’m currently learning **captcha**
 
 - 👯 I’m looking to collaborate on **a computer vision project that auto solves Rubik's cubes**
 
