@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Claire</h1>
-<h3 align="center">Data Engineering | DevOps</h3>
+<h3 align="center">Software Engineering | DevOps</h3>
 
 
 
