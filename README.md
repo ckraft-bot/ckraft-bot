@@ -13,7 +13,7 @@
   
 - 👨‍💻 All of my projects are available at [here](https://github.com/ckraft-bot?tab=repositories)
 
-- ⚡ Fun fact **My fastest solve (on a Rubik's cube) is 10.60 seconds**
+- ⚡ Fun fact **my fastest solve (on a Rubik's cube) is 10.60 seconds**
 
 <h3 align="left">Let's Be Social:</h3>
 <p align="left">
